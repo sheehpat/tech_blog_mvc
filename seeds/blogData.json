@@ -1,0 +1,14 @@
+[
+  {
+    "name": "REACT",
+    "content": "Recently started using React. React is a a frontend framerwork that allows for utlizing and reusing various components and variables. Very cool!"
+  },
+  {
+    "name": "HandleBars",
+    "description": "Handlesbars is awesome! Love using this node package to maximize the usabiity of a webpage. Super easy to use."
+  },
+  {
+    "name": "SQL",
+    "description": "When I first started using SQL I thought it seemed quite simple. However, with more knowledge I realized it can be quite complicated! Seems very powerful but will definitely take some practice in getting used to."
+  }
+]

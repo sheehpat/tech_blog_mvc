@@ -8,11 +8,11 @@ The MVC architecture. Leveraging handlebars, express, sequelize, mysql, express-
 -HandlesBars, Express, Express-Session, MySql, Sequelize
 
 # Visuals
-![Screenshot]()
+![Screenshot](./assets/mvc-screenshot.png)
 
 # Usage
 [githublink](https://github.com/sheehpat/tech_blog_mvc)
-[Heroku](https://tech-blog-mvc-sheehan-9e6ee0903dab.herokuapp.com/)
+[Heroku](https://tech-blog-mvc-sheehan-9e6ee0903dab.herokuapp.com)
 
 
 # Authors and acknowledgment

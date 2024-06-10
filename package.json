@@ -8,5 +8,15 @@
     "express-session": "^1.18.0",
     "mysql2": "^3.10.0",
     "sequelize": "^6.37.3"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "tech_blog_mvc",
+  "description": "CMS Style blog site created with the MVC architecture",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
 }
